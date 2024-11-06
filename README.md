@@ -55,7 +55,8 @@ https://github.com/KoshiSIT/parttime_sharing_sys
 
 **システムフロー**
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/1b91db3d-074b-45b1-a1a8-d209597e0d38/42bda474-f0a2-4ecf-b6a2-8634e6cc4436/Untitled.png)
+<img width="1699" alt="Untitled" src="https://github.com/user-attachments/assets/4cf6943b-2e42-4fd3-ad8e-7546d1a1a62b">
+
 
 ### 概要
 
@@ -87,9 +88,9 @@ https://github.com/KoshiSIT/comic_emotion
 
 ## 運動管理アプリケーション
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/1b91db3d-074b-45b1-a1a8-d209597e0d38/0d482f44-6c31-4538-a4b8-5626c6ce8673/Untitled.png)
+![Untitled](https://github.com/user-attachments/assets/88bb2d4b-3e7a-4b3a-9725-ed7f0a72a613)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/1b91db3d-074b-45b1-a1a8-d209597e0d38/7706e550-fbb7-4168-9b3f-c38872db85ab/Untitled.png)
+
 
 ### 概要
 
