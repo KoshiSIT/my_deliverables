@@ -45,11 +45,13 @@ https://github.com/KoshiSIT/parttime_sharing_sys
 
 ## 漫画におけるページごとの読者の感情共有システム
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/1b91db3d-074b-45b1-a1a8-d209597e0d38/f76f4018-11db-4079-946e-8095806f349c/Untitled.png)
+<img width="1014" alt="Untitled" src="https://github.com/user-attachments/assets/42300bc5-247a-45be-b2a7-35a4705af383">
+
 
 **システム構成**
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/1b91db3d-074b-45b1-a1a8-d209597e0d38/30e39006-2926-4f05-b087-a3f99d637b45/Untitled.png)
+![Untitled](https://github.com/user-attachments/assets/c911eeab-058b-4e63-b820-31e2d670befb)
+
 
 **システムフロー**
 
